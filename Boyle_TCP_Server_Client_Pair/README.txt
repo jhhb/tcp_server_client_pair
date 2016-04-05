@@ -2,6 +2,10 @@ README.txt
 
 TCP client / server pair Readme.
 
+TCP server-client pair for my Computer Networks class (a week or so ago). These work on a local machine.
+I think this is in Python 3. Basically the client connects to the server and sends a
+few query strings and gets different responses​
+
 Server:
 	1. You run by typing "python server.py" in the command line
 
